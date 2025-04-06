@@ -2,6 +2,10 @@
 
 This project is a **Social Media Application** designed to connect users, share content, and foster online communities. It is the front-end component of the application, built to provide an intuitive and user-friendly interface.
 
+## Dummy Login Details:
+email : chetancdi077@gmail.com
+password : 1234567
+
 ## Features
 
 - User authentication and profile management.
